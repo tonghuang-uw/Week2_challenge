@@ -1,36 +1,38 @@
-# Project Title
+# Loan Qualifying Filter
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+The project is designed to filter out a list of bank loan based on users' desire. Users can enter their credit score, debt, income, desired loan, and home value to filter out a list of bank loans that is best for them.
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+It is required for users to have python.
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+There is no need to install.
 
 ---
 
 ## Examples
 
-This section should include screenshots, code blocks, or animations showing how your project works.
+![starting_list](.image/first)
+![process](.image/second)
+![final](.image/third)
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project; since you may want to be reached by recruiters or potential collaborators, include your contact e-mail, and optionally your LinkedIn or Twitter profile.
+Tong Huang
 
 ---
 
