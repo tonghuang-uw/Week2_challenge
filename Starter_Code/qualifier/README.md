@@ -18,9 +18,16 @@ There is no need to install.
 
 ## Examples
 
-![starting_list](.image/first)
-![process](.image/second)
-![final](.image/third)
+- ### This image describe a input of bank loan for filter to start.
+![starting_list](image/first.png)
+
+
+- ### This image describe how the app process the bank loan in order to get best loans for users.
+![process](image/second.png)
+
+
+- ### This image describe what the filtered bank loan looks like
+![final](image/third.png)
 
 ---
 
